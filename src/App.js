@@ -4,18 +4,19 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <header className="SERCAN YILMAZ">
+      <h1>Sercan Yilmaz'in WebSitesi</h1>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          DevOps <code>Sercan YILMAZ</code> tutorial.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://sercanyzz.medium.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          https://sercanyzz.medium.com
         </a>
       </header>
     </div>
